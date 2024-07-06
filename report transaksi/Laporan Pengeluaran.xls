@@ -1,0 +1,31 @@
+
+            <table class="table" border="1" cellspacing="0" cellpadding="3">
+                <tr>
+                    <th>No.</th>   
+                    <th>Tanggal</th>
+                    <th>Keterangan Pengeluaran</th>
+                    <th>Keperluan Pengeluaran</th>
+                    <th>Jumlah Pengeluaran</th>
+                </tr>
+        
+            <tr>
+                <td>1</td>
+                <td>2023-07-01</td>
+                <td>sdjah</td>
+                <td>Makan dan Minum</td>
+                <td>500.000,00</td>
+            </tr>
+            
+            <tr>
+                <td>2</td>
+                <td>2023-07-21</td>
+                <td>konsumsi</td>
+                <td>Makan dan Minum</td>
+                <td>200.000,00</td>
+            </tr>
+            
+            <tr>
+                <td colspan="4" style="text-align: center;">Total Pengeluaran</td>
+                <td>700.000,00</td>
+            </tr>
+        </table>

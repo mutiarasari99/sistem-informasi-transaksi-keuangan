@@ -1,0 +1,39 @@
+
+            <table class="table" border="1" cellspacing="0" cellpadding="3">
+                <tr>
+                    <th>No.</th>   
+                    <th>Tanggal</th>
+                    <th>Keterangan Pemasukkan</th>
+                    <th>Sumber Pemasukkan</th>
+                    <th>Jumlah Pemasukkan</th>
+                </tr>
+        
+            <tr>
+                <td>1</td>
+                <td>2023-07-01</td>
+                <td>jksdkja</td>
+                <td>ATM</td>
+                <td>2.000.000,00</td>
+            </tr>
+            
+            <tr>
+                <td>2</td>
+                <td>2023-07-21</td>
+                <td>konsumsi</td>
+                <td>ATM</td>
+                <td>500.000,00</td>
+            </tr>
+            
+            <tr>
+                <td>3</td>
+                <td>2023-07-21</td>
+                <td>biaya tambahann</td>
+                <td>Pekerjaan</td>
+                <td>100.000,00</td>
+            </tr>
+            
+            <tr>
+                <td colspan="4" style="text-align: center;">Total Pemasukkan</td>
+                <td>2.600.000,00</td>
+            </tr>
+        </table>
